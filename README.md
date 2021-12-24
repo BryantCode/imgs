@@ -1,3 +1,3 @@
 # imgs
 
-aqui gardare algunas imagenes
+aqui guardare algunas imagenes
